@@ -45,4 +45,8 @@ export const meals: Meal[] = [
     name: "チャーハン",
     ingredients: ["ごはん", "卵", "ベーコン", "キャベツ", "醤油"],
   },
+  {
+    name: "麻婆豆腐",
+    ingredients: ["合い挽き肉", "豆腐", "豆板醤", "醤油", "砂糖"],
+  },
 ];
