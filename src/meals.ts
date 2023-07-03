@@ -61,4 +61,8 @@ export const meals: Meal[] = [
     name: "青椒肉絲",
     ingredients: ["豚肉", "ピーマン", "醤油", "砂糖"],
   },
+  {
+    name: "酢豚",
+    ingredients: ["豚肉", "玉ねぎ", "パイナップル", "醤油", "砂糖", "酢"],
+  },
 ];
