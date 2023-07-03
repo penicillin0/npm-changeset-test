@@ -7,7 +7,7 @@
   "scripts": {
     "build": "tsc",
     "prepare": "yarn run build",
-    "publish": "changeset publish"
+    "publish": "changeset publish && changeset tag"
   },
   "repository": {
     "type": "git",
