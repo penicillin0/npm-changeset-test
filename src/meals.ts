@@ -29,4 +29,8 @@ export const meals: Meal[] = [
     name: "親子丼",
     ingredients: ["鶏肉", "玉ねぎ", "卵", "醤油", "砂糖", "ごはん"],
   },
+  {
+    name: "オムライス",
+    ingredients: ["鶏肉", "玉ねぎ", "卵", "ケチャップ", "ごはん"],
+  },
 ];
