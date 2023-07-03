@@ -1,6 +1,6 @@
 {
   "name": "recommend-meal",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "a sample of implementing npm package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
