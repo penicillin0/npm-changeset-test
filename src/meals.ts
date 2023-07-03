@@ -57,4 +57,8 @@ export const meals: Meal[] = [
     name: "麻婆春雨",
     ingredients: ["合い挽き肉", "春雨", "豆板醤", "醤油", "砂糖"],
   },
+  {
+    name: "青椒肉絲",
+    ingredients: ["豚肉", "ピーマン", "醤油", "砂糖"],
+  },
 ];
