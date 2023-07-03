@@ -1,5 +1,11 @@
 # recommend-meal
 
+## 0.1.4
+
+### Patch Changes
+
+- [#15](https://github.com/penicillin0/npm-changeset-test/pull/15) [`e771f61`](https://github.com/penicillin0/npm-changeset-test/commit/e771f61f9a0488f68283e4ad73da8582b18f5cd3) Thanks [@penicillin0](https://github.com/penicillin0)! - fot changeset tag
+
 ## 0.1.3
 
 ### Patch Changes
